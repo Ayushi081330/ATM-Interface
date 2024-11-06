@@ -1,7 +1,6 @@
 #include <iostream>
 #include <map>
 using namespace std;
-
 // ATM system class
 class ATM
 {
